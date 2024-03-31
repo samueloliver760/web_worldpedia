@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
+
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: Quicksand;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.wrapper {
+	width: 1100px;
+	margin: auto;
+	position: relative;
+	margin-bottom: 40px;
+	margin-top: 20px;
+	justify-content: center;	
+}
+
+.header_related {
+	text-align: center;
+}
+
